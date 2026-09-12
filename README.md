@@ -1,10 +1,1 @@
-Este es el README de mi curso
-
-
-mi segundo cambio
-
-
-Ultima rama VSC
-
-
------------------------
+Archivo README.md del taller de GIT y GitHub
