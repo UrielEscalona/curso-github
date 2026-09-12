@@ -1,4 +1,3 @@
-Este es el README de mi curso
+Archivo README.md del taller de GIT y GitHub
 
-
-mi segundo cambio
+Dia final del taller
